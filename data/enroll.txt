@@ -1,0 +1,16 @@
+round1(portfolio):
+gpax>=2.50
+IELTS>=5.5
+grade of English,physics,math>2.50
+submit portfolio
+round2(quota):
+gpax>=2.50
+IELTS>=5.5
+grade of English,physics,math>2.50
+submit portfolio
+round3(admission):
+score of 100% consist of
+gpax 20%
+TPAT3 50%
+math1 25% 
+physics 5%
